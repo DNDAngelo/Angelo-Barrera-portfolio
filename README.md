@@ -8,10 +8,11 @@ G7.jpeg
 index.html
 main.js
 styles.css
+https://dndangelo.github.io/Angelo-Barrera-portfolio/
+Desktop and Cellphone 
+lorenzangelobarrera@gmail.com
+I am passionate about creating user-friendly and visually appealing designs that make people’s lives easier and more enjoyable. Since I was young, I have been fascinated by how technology and design work together to solve problems and improve everyday experiences. This interest inspired me to dive deeper into the world of UI and UX design. My goal is to create websites and applications that are not only beautiful but also simple, clear, and easy to use.
 
-What UI/UX principles did you use and why?
-I made the design simple and clear so people can find what they want quickly. I used the same fonts and colors all over to keep it looking neat and professional. I also made sure it works well on phones and computers. Plus, I thought about making it easy for everyone to use
-What problems did you have and how did you fix them?
-At first, I had trouble making the portfolio look creative but not too busy. I tried different designs and asked friends what they thought until it looked good. I also had a lot of projects to show, and it felt crowded, so I put them into groups and added filters to make it easier to find things. The site was slow because of big pictures, so I made the pictures smaller and only loaded them when needed.
-How would you make the portfolio better next?
-Next, I want to add stories about how I made each project, not just pictures. I’d like to see how people use the site so I can improve it. It would be cool to add a blog to share my thoughts about design. I also want to add a personal logo or some small animations to make it more unique. Finally, I’d like to show different things to different visitors, like recruiters or clients, so it fits what they’re looking for.
+Good design, to me, means understanding what users really need and making sure the product fits those needs perfectly. I believe that design should not just look nice but also help people complete their tasks quickly and without confusion. Balancing creativity with usability can be challenging, but it’s what makes design exciting and rewarding. Every choice I make—whether it’s about colors, fonts, or layouts—aims to support a smooth and enjoyable user experience.
+
+I am always eager to learn new skills, tools, and techniques to keep improving my work. I enjoy taking on real projects where I can apply what I’ve learned and see the impact of my designs on people’s lives. Moving forward, I’m excited to grow as a designer and create meaningful, user-focused experiences that make a difference.
